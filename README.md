@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.sln -DartifactId=bamboo-test -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
